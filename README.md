@@ -43,7 +43,7 @@ Download the corresponding [Chrome Driver](https://sites.google.com/chromium.org
 
 helpful reading: https://unix.stackexchange.com/questions/233185/install-older-versions-of-google-chrome-stable-on-ubuntu-14-10
 
-## Setup
+### Experiment Setup
 
 Modify `SERVER_DOMAIN` in `exp/main.js` and `BASE_URL` in `exp/gen.sh`.
 
