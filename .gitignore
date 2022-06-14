@@ -1,0 +1,14 @@
+exp/node_modules
+exp/tmp
+exp/output
+*/**/inputGen/datagen
+*/**/inputGen/graphgen
+*/**/openmp/bfs
+*/**/openmp/kmeans
+*/**/openmp/hotspot
+*/**/openmp/needle
+*/**/openmp/backprop
+*/**/openmp/srad
+*/**/result.txt
+*.o
+*/**/output.out

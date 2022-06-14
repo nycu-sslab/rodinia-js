@@ -1,0 +1,1 @@
+./backprop 10000 3072 ../inputGen/10000.txt
