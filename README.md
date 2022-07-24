@@ -1,6 +1,6 @@
 # Rodinia-JS
 
-Rodinia-JS is used for the thesis, "[Offworker: An Offloading Framework for Parallel Web Applications](https://etd.lib.nctu.edu.tw/cgi-bin/gs32/tugsweb.cgi?o=dnctucdr&s=id=%22GT0708560050%22.&switchlang=en)," authored by Liu, An-Chi and You, Yi-Ping.
+Rodinia-JS is used for the paper, "[Offworker: An Offloading Framework for ParallelWeb Applications](#citation)," authored by An-Chi Liu and Yi-Ping You.
 
 Rodinia-JS is a manually ported the [Rodinia benchmark suite](https://www.cs.virginia.edu/rodinia/doku.php?id=start) (version 1) from OpenMP into JavaScript, where the  computation-intensive parts of the programs (i.e., kernels) were expressed by using the Web Workers API with the proxy pattern. All Rodinia applications have been successfully ported, except "Leukocyte Tracking", "Stream Cluster", and "Similarity Score" due to their large code size (over 3,000 lines of code). We call this new benchmark suite Rodinia-JS.
 
@@ -80,7 +80,8 @@ The default dataset had been verified correctness with the original OpenMP's res
 If you use Rodinia-JS for academical purpose, please cite the followings:
 
 - S. Che, M. Boyer, J. Meng, D. Tarjan, J. W. Sheaffer, S.-H. Lee, and K. Skadron. Rodinia: A Benchmark Suite for Heterogeneous Computing. In Proceedings of the IEEE International Symposium on Workload Characterization (IISWC), pp. 44-54, Oct. 2009.
-- Liu, An-Chi and You, Yi-Ping, "Offworker: An Offloading Framework for Parallel Web Applications,"  M.S. thesis, Institute of Computer Science and Engineering, National Yang Ming Chiao Tung University, Hsinchu, Taiwan, 2022. [Online]. Available: https://etd.lib.nctu.edu.tw/cgi-bin/gs32/tugsweb.cgi?o=dnctucdr&s=id=%22GT0708560050%22.&switchlang=en
+- An-Chi Liu and Yi-Ping You, "Offworker: An Offloading Framework for Parallel Web Applications," to appear in Proceedings of the 23rd International Conference on Web Information Systems and Engineering (WISE '22), Biarritz, France, October 31-November 3, 2022.
+- An-Chi Liu and Yi-Ping You, "Offworker: An Offloading Framework for Parallel Web Applications," M.S. thesis, Institute of Computer Science and Engineering, National Yang Ming Chiao Tung University, Hsinchu, Taiwan, 2022. [Online]. Available: https://etd.lib.nctu.edu.tw/cgi-bin/gs32/tugsweb.cgi?o=dnctucdr&s=id=%22GT0708560050%22.&switchlang=en
 
 ## License
 
