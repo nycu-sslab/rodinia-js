@@ -80,7 +80,7 @@ The default dataset had been verified correctness with the original OpenMP's res
 If you use Rodinia-JS for academical purpose, please cite the followings:
 
 - S. Che, M. Boyer, J. Meng, D. Tarjan, J. W. Sheaffer, S.-H. Lee, and K. Skadron. Rodinia: A Benchmark Suite for Heterogeneous Computing. In Proceedings of the IEEE International Symposium on Workload Characterization (IISWC), pp. 44-54, Oct. 2009.
-- An-Chi Liu and Yi-Ping You, "Offworker: An Offloading Framework for Parallel Web Applications," to appear in Proceedings of the 23rd International Conference on Web Information Systems and Engineering (WISE '22), Biarritz, France, October 31-November 3, 2022.
+- An-Chi Liu and Yi-Ping You, "Offworker: An Offloading Framework for Parallel Web Applications," Proceedings of the 23rd International Conference on Web Information Systems and Engineering (WISE '22), Biarritz, France, October 31-November 3, 2022. [Online]. Available: https://doi.org/10.1007/978-3-031-20891-1_13
 - An-Chi Liu and Yi-Ping You, "Offworker: An Offloading Framework for Parallel Web Applications," M.S. thesis, Institute of Computer Science and Engineering, National Yang Ming Chiao Tung University, Hsinchu, Taiwan, 2022. [Online]. Available: https://etd.lib.nctu.edu.tw/cgi-bin/gs32/tugsweb.cgi?o=dnctucdr&s=id=%22GT0708560050%22.&switchlang=en
 
 ## License
